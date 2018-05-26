@@ -127,6 +127,7 @@ def leg2():
     turtle.fd(100)
     turtle.pu()
     turtle.home()
+#dictionary containing all the names of movies
 aa={1:['superman'],2:['batman'],3:['spiderman'],4:['hulk'],5:["wolverine"],6:["xmen"],7:["thor"],8:["antman"],9:["krrish"],10:["aquaman"],11:["deadpool"],12:["flash"],13:["watchmen"],14:["daredevil"],15:["hellboy"],16:["superwoman"]}
 bb={1:["dilwale"],2:["raone"],3:["don"],4:["raees"],5:["fan"],6:["baazigar"],7:["darr"],8:["pardes"],9:["baadshah"],10:["devdas"],11:["swades"],12:["bhoothnath"],13:["billu"],14:["ashoka"],15:["mohabbatein"]}
 cc={1:["kick"],2:["veer"],3:["sultan"],4:['dabangg'],5:["ready"],6:["partner"],7:["bodyguard"],8:["wanted"],9:["hello"],10:["yuvvraaj"],11:["saawariya"],12:["baghban"]}
